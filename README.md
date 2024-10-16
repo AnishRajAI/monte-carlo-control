@@ -109,8 +109,8 @@ def mc_control(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio
 ```
 
 ## OUTPUT:
-![OUTPUT]()
-![OUTPUT]()
+![OUTPUT](1.png)
+![OUTPUT](2.png)
 
 ## RESULT:
 Thus a Python program is developed to find the optimal policy for the given RL environment using the Monte Carlo algorithm.
